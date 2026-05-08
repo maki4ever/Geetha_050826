@@ -1,1 +1,2 @@
-updatin the file from remote repo at 10:28
+updatin the file from remote repo at 10:28 appending some value to existing line
+updating the file at 10:46 from feature branch
